@@ -1,6 +1,7 @@
 # Clearing House System
 
 A simplified clearing house system that simulates how financial transactions are processed between accounts, built with Rust and Axum.
+Also rust is funny so the default branch is master not main
 
 ## Overview
 
